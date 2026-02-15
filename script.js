@@ -22,7 +22,7 @@ let matches = [
     
     // Journée 1
     {home:"Leverkusen", away:"Celtic", homeScore:0, awayScore:0},
-    {home:"Barcelona", away:"Breda", homeScore:0, awayScore:0},
+    {home:"Barcelona", away:"Breda", homeScore:2, awayScore:0},
     
     // Journée 2
     {home:"Inter Fc", away:"Leverkusen", homeScore:0, awayScore:0},
