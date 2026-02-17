@@ -28,7 +28,7 @@ let matches = [
     // ========== GROUPE A ==========
     
     // JOURNÉE 1
-    {home:"Leverkusen", away:"Celtic", homeScore:0, awayScore:0, journee:1, jwe:false},
+    {home:"Leverkusen", away:"Celtic", homeScore:3, awayScore:3, journee:1, jwe:true},
     {home:"Barcelona", away:"Breda", homeScore:2, awayScore:0, journee:1, jwe:true},
     
     // JOURNÉE 2
@@ -62,7 +62,7 @@ let matches = [
     {home:"NOGAME CITY", away:"Team Heineken", homeScore:0, awayScore:0, journee:3, jwe:false},
     
     // JOURNÉE 4
-    {home:"BABAYAGA", away:"1i__phada", homeScore:0, awayScore:0, journee:4, jwe:false},
+    {home:"BABAYAGA", away:"1i__phada", homeScore:1, awayScore:0, journee:4, jwe:false},
     {home:"F.J.J.Robin", away:"Team Heineken", homeScore:0, awayScore:0, journee:4, jwe:false},
     
     // JOURNÉE 5
