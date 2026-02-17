@@ -33,7 +33,7 @@ let matches = [
     
     // JOURNÉE 2
     {home:"Inter Fc", away:"Leverkusen", homeScore:0, awayScore:0, journee:2, jwe:false},
-    {home:"Celtic", away:"Barcelona", homeScore:0, awayScore:0, journee:2, jwe:false},
+    {home:"Celtic", away:"Barcelona", homeScore:6, awayScore:0, journee:2, jwe:true},
     
     // JOURNÉE 3
     {home:"Breda", away:"Inter Fc", homeScore:0, awayScore:0, journee:3, jwe:false},
@@ -45,7 +45,7 @@ let matches = [
     
     // JOURNÉE 5
     {home:"Barcelona", away:"Inter Fc", homeScore:0, awayScore:0, journee:5, jwe:false},
-    {home:"Celtic", away:"Breda", homeScore:0, awayScore:0, journee:5, jwe:false},
+    {home:"Celtic", away:"Breda", homeScore:5, awayScore:1, journee:5, jwe:true},
     
     // ========== GROUPE B ==========
     
