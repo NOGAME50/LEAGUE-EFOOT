@@ -59,7 +59,7 @@ let matches = [
     
     // JOURNÉE 3
     {home:"1i__phada", away:"F.J.J.Robin", homeScore:0, awayScore:0, journee:3, jwe:false},
-    {home:"NOGAME CITY", away:"Team Heineken", homeScore:0, awayScore:0, journee:3, jwe:false},
+    {home:"NOGAME CITY", away:"Team Heineken", homeScore:3, awayScore:3, journee:3, jwe:false},
     
     // JOURNÉE 4
     {home:"BABAYAGA", away:"1i__phada", homeScore:1, awayScore:0, journee:4, jwe:true},
