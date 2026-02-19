@@ -12,7 +12,7 @@ let teams = [
     {nom:"Inter Fc", logo:"https://i.postimg.cc/B67wWvyw/IMG-20260213-WA0071.jpg", groupe:"A"},
     
     // Groupe B
-    {nom:"F.J.J.Robin", logo:"https://i.postimg.cc/28tGCJ0T/IMG-20260213-WA0072.jpg", groupe:"B"},
+    {nom:"@AFC", logo:"https://files.catbox.moe/gb3sxu.jpg", groupe:"B"},
     {nom:"NOGAME CITY", logo:"https://i.postimg.cc/Jzx1y926/IMG-20260214-WA0089.jpg", groupe:"B"},
     {nom:"BABAYAGA", logo:"https://i.postimg.cc/wxnY76T9/IMG-20260214-WA0087.jpg", groupe:"B"},
     {nom:"Team Heineken", logo:"https://i.postimg.cc/nrj2yb6g/IMG-20260214-WA0086.jpg", groupe:"B"},
@@ -54,20 +54,20 @@ let matches = [
     {home:"Team Heineken", away:"1i__phada", homeScore:0, awayScore:0, journee:1, jwe:false},
     
     // JOURNÉE 2
-    {home:"F.J.J.Robin", away:"NOGAME CITY", homeScore:0, awayScore:0, journee:2, jwe:false},
+    {home:"@AFC", away:"NOGAME CITY", homeScore:0, awayScore:0, journee:2, jwe:false},
     {home:"BABAYAGA", away:"Team Heineken", homeScore:0, awayScore:0, journee:2, jwe:false},
     
     // JOURNÉE 3
-    {home:"1i__phada", away:"F.J.J.Robin", homeScore:0, awayScore:0, journee:3, jwe:false},
+    {home:"1i__phada", away:"@AFC", homeScore:0, awayScore:0, journee:3, jwe:false},
     {home:"NOGAME CITY", away:"Team Heineken", homeScore:3, awayScore:3, journee:3, jwe:true},
     
     // JOURNÉE 4
     {home:"BABAYAGA", away:"1i__phada", homeScore:1, awayScore:0, journee:4, jwe:true},
-    {home:"F.J.J.Robin", away:"Team Heineken", homeScore:0, awayScore:0, journee:4, jwe:false},
+    {home:"@AFC", away:"Team Heineken", homeScore:0, awayScore:0, journee:4, jwe:false},
     
     // JOURNÉE 5
     {home:"1i__phada", away:"NOGAME CITY", homeScore:0, awayScore:0, journee:5, jwe:false},
-    {home:"BABAYAGA", away:"F.J.J.Robin", homeScore:0, awayScore:0, journee:5, jwe:false}
+    {home:"BABAYAGA", away:"@AFC", homeScore:0, awayScore:0, journee:5, jwe:false}
 ];
 
 // ==================================================================
