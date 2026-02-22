@@ -12,7 +12,7 @@ let teams = [
     {nom:"Inter Fc", logo:"https://i.postimg.cc/B67wWvyw/IMG-20260213-WA0071.jpg", groupe:"A"},
     
     // Groupe B
-    {nom:"@AFC", logo:"https://files.catbox.moe/gb3sxu.jpg", groupe:"B"},
+    {nom:"@AFC", logo:"https://i.postimg.cc/7Z1YF1kn/3840px-Logo-Arsenal-FC-(Saison-2011-2012)-svg.png", groupe:"B"},
     {nom:"NOGAME CITY", logo:"https://i.postimg.cc/Jzx1y926/IMG-20260214-WA0089.jpg", groupe:"B"},
     {nom:"BABAYAGA", logo:"https://i.postimg.cc/wxnY76T9/IMG-20260214-WA0087.jpg", groupe:"B"},
     {nom:"Team Heineken", logo:"https://i.postimg.cc/nrj2yb6g/IMG-20260214-WA0086.jpg", groupe:"B"},
