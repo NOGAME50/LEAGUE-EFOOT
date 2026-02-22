@@ -50,11 +50,11 @@ let matches = [
     // ========== GROUPE B ==========
     
     // JOURNÉE 1
-    {home:"NOGAME CITY", away:"BABAYAGA", homeScore:3, awayScore:1, journee:1, jwe:false},
+    {home:"NOGAME CITY", away:"BABAYAGA", homeScore:3, awayScore:1, journee:1, jwe:true},  // KOREJE: jwe:true
     {home:"Team Heineken", away:"1i__phada", homeScore:0, awayScore:0, journee:1, jwe:false},
     
     // JOURNÉE 2
-    {home:"@AFC", away:"NOGAME CITY", homeScore:, awayScore:0, journee:2, jwe:false},
+    {home:"@AFC", away:"NOGAME CITY", homeScore:0, awayScore:0, journee:2, jwe:false},      // KOREJE: homeScore:0
     {home:"BABAYAGA", away:"Team Heineken", homeScore:0, awayScore:0, journee:2, jwe:false},
     
     // JOURNÉE 3
