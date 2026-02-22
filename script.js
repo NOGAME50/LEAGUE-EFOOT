@@ -41,7 +41,7 @@ let matches = [
     
     // JOURNÉE 4
     {home:"Celtic", away:"Inter Fc", homeScore:0, awayScore:0, journee:4, jwe:false},
-    {home:"Breda", away:"Leverkusen", homeScore:0, awayScore:2, journee:4, jwe:false},
+    {home:"Breda", away:"Leverkusen", homeScore:0, awayScore:2, journee:4, jwe:true},
     
     // JOURNÉE 5
     {home:"Barcelona", away:"Inter Fc", homeScore:0, awayScore:0, journee:5, jwe:false},
